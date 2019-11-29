@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-29T04:06:23.879Z</updated>
+  <updated>2019-11-28T17:21:21.995Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>ssh_test</title>
-    <link href="http://yoursite.com/2019/11/29/ssh-test/"/>
-    <id>http://yoursite.com/2019/11/29/ssh-test/</id>
-    <published>2019-11-29T04:05:04.000Z</published>
-    <updated>2019-11-29T04:06:23.879Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="ssh-test"><a href="#ssh-test" class="headerlink" title="ssh_test"></a><center>ssh_test</center></h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;ssh-test&quot;&gt;&lt;a href=&quot;#ssh-test&quot; class=&quot;headerlink&quot; title=&quot;ssh_test&quot;&gt;&lt;/a&gt;&lt;center&gt;ssh_test&lt;/center&gt;&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-    
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
-    
-  </entry>
   
   <entry>
     <title>top_test</title>
