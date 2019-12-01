@@ -153,7 +153,7 @@ function activateLightMode(){
 <div class="note info no-icon">
             <p><code>hexo clean</code>是清除缓存，也可以不加<br><code>hexo generate</code>生成静态文章，可以缩写为<code>hexo g</code><br><code>hexo deploy</code>部署文章，可以缩写为<code>hexo d</code><br>注意deploy是要输入你的username和password<br>没有报错就说明部署成功了，过一会儿就可以在<code>https://yourname.github.io</code>这个网站看到你的博客了<br>这个时候我们发现每次deploy的时候都要输入username和password，我们可以打开站点配置文件<code>_config.yml</code>把我们之前修改的<code>repo: https://github.com/YourgithubName/YourgithubName.github.io.git</code>修改为</p>
           </div>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">git@github.com:YourgithubName/YourgithubName.github.io.git</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">repo:</span> <span class="string">git@github.com:YourgithubName/YourgithubName.github.io.git</span></span><br></pre></td></tr></table></figure>
 <p>这样就不用每次都输入username和password了。</p>
 <h1 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h1><p>hexo基本配置、主题更换等</p>
 <h2 id="1-hexo基本配置"><a href="#1-hexo基本配置" class="headerlink" title="1.hexo基本配置"></a>1.hexo基本配置</h2><p>在myblog文件夹目录下的<code>_config.yml</code>，就是整个hexo框架的基本配置文件了，可以在这里修改大部分的配置文件。详细可参考<a href="https://hexo.io/zh-cn/docs/configuration" target="_blank" rel="noopener">官方的配置</a>描述。</p>
