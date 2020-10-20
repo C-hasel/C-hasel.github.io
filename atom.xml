@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.c-hasel.cn/"/>
-  <updated>2020-04-10T16:49:10.129Z</updated>
+  <updated>2020-10-20T12:05:26.800Z</updated>
   <id>http://www.c-hasel.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>局域网连接ssr</title>
+    <link href="http://www.c-hasel.cn/2020/10/20/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%BF%9E%E6%8E%A5ssr/"/>
+    <id>http://www.c-hasel.cn/2020/10/20/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%BF%9E%E6%8E%A5ssr/</id>
+    <published>2020-10-20T11:25:01.000Z</published>
+    <updated>2020-10-20T12:05:26.800Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="允许来自局域网的连接"><a href="#允许来自局域网的连接" class="headerlink" title="允许来自局域网的连接"></a>允许来自局域网的连接</h1><ul><li><strong>在ssr选项设置里开启允许来自局域网的连接</strong><br><img alt data-src="/img/ssr/ssr.png" class="lazyload"><h1 id="HTTP代理"><a href="#HTTP代理" class="headerlink" title="HTTP代理"></a>HTTP代理</h1></li><li><strong>在cmd里面输入<code>ipconfig</code>，查看自己电脑的ip地址</strong></li><li><strong>手机连接WIFI后设置代理为手动，服务器输入电脑ip,端口默认1080</strong><img height="600" width="300" data-src="/img/ssr/proxy.PNG" class="lazyload"></li><li><strong>成功</strong><img height="600" width="300" data-src="/img/ssr/success.PNG" class="lazyload"></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="其他" scheme="http://www.c-hasel.cn/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="科学上网" scheme="http://www.c-hasel.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="其他" scheme="http://www.c-hasel.cn/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
   
   <entry>
     <title>常见网络安全设备默认口令</title>

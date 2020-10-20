@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>局域网连接ssr</title>
+      <link href="/2020/10/20/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%BF%9E%E6%8E%A5ssr/"/>
+      <url>/2020/10/20/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%BF%9E%E6%8E%A5ssr/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="允许来自局域网的连接"><a href="#允许来自局域网的连接" class="headerlink" title="允许来自局域网的连接"></a>允许来自局域网的连接</h1><ul><li><strong>在ssr选项设置里开启允许来自局域网的连接</strong><br><img alt data-src="/img/ssr/ssr.png" class="lazyload"><h1 id="HTTP代理"><a href="#HTTP代理" class="headerlink" title="HTTP代理"></a>HTTP代理</h1></li><li><strong>在cmd里面输入<code>ipconfig</code>，查看自己电脑的ip地址</strong></li><li><strong>手机连接WIFI后设置代理为手动，服务器输入电脑ip,端口默认1080</strong><img height="600" width="300" data-src="/img/ssr/proxy.PNG" class="lazyload"></li><li><strong>成功</strong><img height="600" width="300" data-src="/img/ssr/success.PNG" class="lazyload"></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科学上网 </tag>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>常见网络安全设备默认口令</title>
       <link href="/2020/03/02/%E5%B8%B8%E8%A7%81%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AE%BE%E5%A4%87%E9%BB%98%E8%AE%A4%E5%8F%A3%E4%BB%A4/"/>
       <url>/2020/03/02/%E5%B8%B8%E8%A7%81%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AE%BE%E5%A4%87%E9%BB%98%E8%AE%A4%E5%8F%A3%E4%BB%A4/</url>
