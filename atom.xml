@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c-hasel.github.io/"/>
-  <updated>2020-11-17T16:38:14.000Z</updated>
+  <updated>2022-06-13T17:17:21.742Z</updated>
   <id>https://c-hasel.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post</title>
+    <link href="https://c-hasel.github.io/2022/06/13/post/"/>
+    <id>https://c-hasel.github.io/2022/06/13/post/</id>
+    <published>2022-06-13T17:16:35.000Z</published>
+    <updated>2022-06-13T17:17:21.742Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="this-a-test"><a href="#this-a-test" class="headerlink" title="this a test!"></a>this a test!</h1><p>test</p><h2 id="this-a-test2"><a href="#this-a-test2" class="headerlink" title="this a test2"></a>this a test2</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>局域网连接ssr</title>
