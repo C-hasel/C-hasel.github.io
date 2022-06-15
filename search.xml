@@ -138,9 +138,9 @@
       
         <tags>
             
-            <tag> CVE </tag>
-            
             <tag> nmap </tag>
+            
+            <tag> CVE </tag>
             
         </tags>
       
